@@ -1,0 +1,29 @@
+.card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .card h3 {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+  
+  .card p {
+    color: #666;
+  }
+  
+  /* ✅ अब button को लोकल क्लास के साथ स्टाइल करेंगे */
+  .button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #0070f3;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
